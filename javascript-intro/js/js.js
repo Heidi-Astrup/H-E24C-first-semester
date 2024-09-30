@@ -2,4 +2,4 @@
  * file: js/js.js
  * purpose: Behaviors
  **/
-console.log('Success: JavaScript running!')
+console.log('Success: JavaScript running! - hello you')
